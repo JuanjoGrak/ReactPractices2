@@ -1,2 +1,2 @@
-# ReactPractices2
+# ReactPratices
 Created with CodeSandbox
